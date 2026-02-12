@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 2.10">
+    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 2.13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_2/t_1_4_abc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1_2/t_1_4_abc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1770485887933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add task 2.13">
+      <option name="closed" value="true" />
+      <created>1770754202725</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770754202725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add task 1.3" />
     <MESSAGE value="Add task 1.4" />
     <MESSAGE value="Add task 2.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task 2.10" />
+    <MESSAGE value="Add task 2.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task 2.13" />
   </component>
 </project>
