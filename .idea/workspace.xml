@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 2.13">
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithms_and_data_structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithms_and_data_structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 8.8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_05_e2663/img_08_05_e2663.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_05_e2663_bubble/img_08_05_e2663.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_05_e2663/t_08_05_e2663.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_05_e2663_bubble/t_08_05_e2663.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_06_e5089/img_08_06_e5089.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_06_e5089_selection/img_08_06_e5089.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_06_e5089/t_08_06_e5089.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_06_e5089_selection/t_08_06_e5089.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_07_e2664/img_08_07_e2664.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_07_e2664_insertion/img_08_07_e2664.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_07_e2664/t_08_07_e2664.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_07_e2664_insertion/t_08_07_e2664.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_08_e972/img_08_08_e972.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_08_e972_merge/img_08_08_e972.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_8_9/t08_08_e972/t_08_08_e972.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_8_9/t08_08_e972_merge/t_08_08_e972.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +46,24 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="396zKThIyrbMIVO9ZtadOJIUU9U" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.t_1_3_abde.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.t_2_10.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.t_08_10_e1344.executor": "Run",
+    "Python.t_08_12_e2662.executor": "Run",
+    "Python.t_1_3_abde.executor": "Debug",
+    "Python.t_2_10.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770754202725</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add task 8.8">
+      <option name="closed" value="true" />
+      <created>1774598678863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774598678863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +136,7 @@
     <MESSAGE value="Add task 1.4" />
     <MESSAGE value="Add task 2.10" />
     <MESSAGE value="Add task 2.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task 2.13" />
+    <MESSAGE value="Add task 8.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task 8.8" />
   </component>
 </project>
