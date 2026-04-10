@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 2.13">
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithms_and_data_structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithms_and_data_structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea19ce0e-21d3-4330-b442-31f31a6a4acc" name="Changes" comment="Add task 10.4">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2026_19_51_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2026_19_51__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2026_9_13_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2026_9_13__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,30 +49,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.t03_06_e3966.executor": "Run",
-    "Python.t04_02_e3968.executor": "Run",
-    "Python.t_03_07_e3970.executor": "Run",
-    "Python.t_04_04.executor": "Run",
-    "Python.t_04_05.executor": "Run",
-    "Python.t_07_04_e2195.executor": "Run",
-    "Python.t_08_06_e5089.executor": "Run",
-    "Python.t_1_3_abde.executor": "Debug",
-    "Python.t_2_10.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.user.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/Algorithms_and_data_structures",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t03_06_e3966.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t04_02_e3968.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_03_07_e3970.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_04_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_04_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_07_04_e2195.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_08_06_e5089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_10_05_e1266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t_1_3_abde.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.t_2_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Algorithms_and_data_structures&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\Algorithms_and_data_structures\Lab_8_9\t08_05_e2663" />
@@ -201,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770754202725</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add task 10.4">
+      <option name="closed" value="true" />
+      <created>1774641572555</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774641572555</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add task 10.4">
+      <option name="closed" value="true" />
+      <created>1774641589194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774641589194</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +231,8 @@
     <MESSAGE value="Add task 1.4" />
     <MESSAGE value="Add task 2.10" />
     <MESSAGE value="Add task 2.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task 2.13" />
+    <MESSAGE value="Add task 10.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task 10.4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structures$t04_02_e3968.coverage" NAME="t04_02_e3968 Coverage Results" MODIFIED="1772180417848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_3_5/t_04_02_e3968" />
