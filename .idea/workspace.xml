@@ -57,6 +57,7 @@
     "Python.t_08_06_e5089.executor": "Run",
     "Python.t_10_05_e1266.executor": "Run",
     "Python.t_11_04_e317.executor": "Run",
+    "Python.t_12_03_e6123.executor": "Run",
     "Python.t_1_3_abde.executor": "Debug",
     "Python.t_2_10.executor": "Run",
     "Python.test.executor": "Run",
@@ -79,7 +80,7 @@
       <recent name="C:\Users\user\PycharmProjects\Algorithms_and_data_structures\Lab_3_5\t_03_06_e3966" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.t_12_03_e6123">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_and_data_structures" />
       <option name="ENV_FILES" value="" />
@@ -128,8 +129,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="t_12_03_e6123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_12_13/t_12_03_e6123" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_12_13/t_12_03_e6123/t_12_03_e6123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.t_12_03_e6123" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.t_07_04_e2195" />
       </list>
